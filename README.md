@@ -77,8 +77,13 @@
 
 ### 🚀 Projects
 
-[![To-Do](https://img.shields.io/badge/To--Do-%236f42c1?style=for-the-badge&logo=todoist&logoColor=white)](https://todo-khaki-psi.vercel.app/)  
-[![Myan-Type](https://img.shields.io/badge/Myan--Type-%236f42c1?style=for-the-badge&logo=google&logoColor=white)](https://myan-type.vercel.app/)
+[![To-Do](https://img.shields.io/badge/To--Do-%236f42c1?style=for-the-badge&logo=todoist&logoColor=white)](https://todo-khaki-psi.vercel.app/)
+
+#### Team Projects
+[![Myan-Type](https://img.shields.io/badge/Myan--Type-%236f42c1?style=for-the-badge&logo=google&logoColor=white)](https://myan-type.vercel.app/)  
+[![School-Management](https://img.shields.io/badge/School--Management-%236f42c1?style=for-the-badge&logo=googleclassroom&logoColor=white)](http://ec2-54-251-241-38.ap-southeast-1.compute.amazonaws.com/)
+
+
 
 </div>
 
