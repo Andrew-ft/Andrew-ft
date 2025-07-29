@@ -77,7 +77,7 @@
 [![To-Do](https://img.shields.io/badge/To--Do-%23FE428E?style=for-the-badge&logo=todoist&logoColor=white)](https://todo-khaki-psi.vercel.app/)
 
 ##### Team Projects
-[![Key-Burm](https://img.shields.io/badge/Myan--Type-%23FE428E?style=for-the-badge&logo=google&logoColor=white)](https://key-burm.vercel.app/)  
+[![Key-Burm](https://img.shields.io/badge/Key--Burm-%23FE428E?style=for-the-badge&logo=google&logoColor=white)](https://key-burm.vercel.app/)  
 [![School-Management](https://img.shields.io/badge/School--Management-%23FE428E?style=for-the-badge&logo=googleclassroom&logoColor=white)](http://ec2-54-251-241-38.ap-southeast-1.compute.amazonaws.com/)
 
 </div>
